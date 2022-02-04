@@ -32,4 +32,4 @@
 
  ##### Quand on aime les chats, on ne compte pas !
  
- <<[précédent] (https://github.com/Pierrerobeyns/Challenge-Markdown/tree/main) ||Sarah JONET|| [suivant] (https://github.com/sebwylleman/challenge-markdown) >>
+ <<[précédent](https://github.com/Pierrerobeyns/Challenge-Markdown/tree/main) ||Sarah JONET|| [suivant](https://github.com/sebwylleman/challenge-markdown) >>
