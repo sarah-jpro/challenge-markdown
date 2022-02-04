@@ -9,7 +9,7 @@
 |Sexe                     |Féminin |
 |Couleur préférée         |Rouge   |
 |Nourriture favorite      |Pizza   |
-|Ananas sur pizza         |<ul><li>[x] NON </li><li>[]</li></ul>|   | 
+|Ananas sur pizza         |<ul><li>[x] NON </li></ul>|   | 
 
 ### Loisirs
 
@@ -31,3 +31,5 @@
  Dans mon enfance j'ai grandi avec pour animaux de compagnie des chiens. J'avais hâte de grandir et d'avoir mon propre domicile afin de m'entourer de mon propre chien dont je savais la race car j'avais une préférence pour les grands chiens mais j'ignorais le nom que je pensais lui attribuer bien sûr. Au final j'ai eu mon chez moi, j'ai sauvé un chat... puis 2...et en ai adopté 2 de plus par la suite. Me voilà dont mon appartement entouré non pas d'un chien mais de quatre adorable chats ;-)
 
  ##### Quand on aime les chats, on ne compte pas !
+ 
+ <<[précédent] (https://github.com/Pierrerobeyns/Challenge-Markdown/tree/main) ||Sarah JONET|| [suivant] (https://github.com/sebwylleman/challenge-markdown) >>
