@@ -1,7 +1,7 @@
 # Sarah Jonet
 *If you don't try you don't know*
 
-![Moi](/home/becode/Images/sarah.png "ma photo")
+![Moi](sarah.png "ma photo")
 
 
 ## Je suis une personne calme et bienveillante
