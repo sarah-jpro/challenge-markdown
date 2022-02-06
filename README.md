@@ -30,7 +30,7 @@
 
  #### Une histoire amusante:
 
- Dans mon enfance j'ai grandi avec pour animaux de compagnie des chiens. J'avais hâte de grandir et d'avoir mon propre domicile afin de m'entourer de mon propre chien dont je savais la race car j'avais une préférence pour les grands chiens mais j'ignorais le nom que je pensais lui attribuer bien sûr. Au final j'ai eu mon chez moi, j'ai sauvé un chat... puis 2...et en ai adopté 2 de plus par la suite. Me voilà dont mon appartement entouré non pas d'un chien mais de quatre adorable chats ;-)
+ Dans mon enfance j'ai grandi avec pour animaux de compagnie des chiens. J'avais hâte de grandir et d'avoir mon propre domicile afin de m'entourer de mon propre chien dont je savais la race car j'avais une préférence pour les grands chiens mais j'ignorais le nom que je pensais lui attribuer bien sûr. Au final j'ai eu mon chez moi, j'ai sauvé un chat... puis 2...et en ai adopté 2 de plus par la suite. Me voilà donc dans mon appartement entourée non pas d'un chien mais de quatre adorables chats ;-)
 
  ##### Quand on aime les chats, on ne compte pas !
  
